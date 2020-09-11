@@ -8,3 +8,4 @@ license = "MIT"
 [dependencies]
 diesel = { version = "1.4.4", features = ["postgres"] }
 dotenv = "0.15.0"
+bcrypt = "0.8.2"
